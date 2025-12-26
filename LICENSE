@@ -1,3 +1,22 @@
+QQQ - Low-code Application Framework for Engineers
+Copyright (C) 2021-2025 QRun-IO, LLC
+https://www.qrun.io | https://github.com/QRun-IO
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+--------------------------------------------------------------------------------
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
@@ -106,7 +125,7 @@ form of a work.
   A "Standard Interface" means an interface that either is an official
 standard defined by a recognized standards body, or, in the case of
 interfaces specified for a particular programming language, one that
-is widely used among developers working in that programming language.
+is widely used among developers working in that language.
 
   The "System Libraries" of an executable work include anything, other
 than the work as a whole, that (a) is included in the normal form of
@@ -217,7 +236,7 @@ terms of section 4, provided that you also meet all of these conditions:
 
     d) If the work has interactive user interfaces, each must display
     Appropriate Legal Notices; however, if the Program has interactive
-    user interfaces that do not display Appropriate Legal Notices, your
+    interfaces that do not display Appropriate Legal Notices, your
     work need not make them do so.
 
   A compilation of a covered work with other separate and independent
@@ -336,7 +355,7 @@ Additional permissions that are applicable to the entire Program shall
 be treated as though they were included in this License, to the extent
 that they are valid under applicable law.  If additional permissions
 apply only to part of the Program, that part may be used separately
-under those permissions, but the entire work remains governed by
+under those permissions, but the entire Program remains governed by
 this License without regard to the additional permissions.
 
   When you convey a copy of a covered work, you may at your option
@@ -530,13 +549,12 @@ otherwise be available to you under applicable patent law.
   If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.  If you cannot convey a
-covered work so as to satisfy simultaneously your obligations under
-this License and any other pertinent obligations, then as a consequence
-you may not convey it at all.  For example, if you agree to terms that
-obligate you to collect a royalty for further conveying from those to
-whom you convey the Program, the only way you could satisfy both those
-terms and this License would be to refrain entirely from conveying the
-Program.
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.  For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.
 
   13. Remote Network Interaction; Use with the GNU General Public License.
 
@@ -556,8 +574,8 @@ permission to link or combine any covered work with a work licensed
 under version 3 of the GNU General Public License into a single
 combined work, and to convey the resulting work.  The terms of this
 License will continue to apply to the part which is the covered work,
-but the work with which it is combined will remain governed by version 3
-of the GNU General Public License.
+but the work with which it is combined will remain governed by version
+3 of the GNU General Public License.
 
   14. Revised Versions of this License.
 
@@ -619,7 +637,7 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
 
-How to Apply These Terms to Your New Programs
+            How to Apply These Terms to Your New Programs
 
   If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
@@ -634,9 +652,9 @@ the "copyright" line and a pointer to where the full notice is found.
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as
-    published by the Free Software Foundation, either version 3 of the
-    License, or (at your option) any later version.
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -658,5 +676,5 @@ specific requirements.
 
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
-For more information on this, and how to apply and follow the GNU AGPLv3,
-see <https://www.gnu.org/licenses/>.
+For more information on this, and how to apply and follow the GNU AGPL, see
+<https://www.gnu.org/licenses/>.
