@@ -24,7 +24,7 @@ This QBit provides a complete RBAC system that integrates directly with QQQ's se
 
 ### Prerequisites
 
-- QQQ application (v0.20+)
+- QQQ application (v0.35.0+)
 - Database backend configured
 
 ### Installation
@@ -33,9 +33,9 @@ Add to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>io.qrun</groupId>
+    <groupId>com.kingsrook.qbits</groupId>
     <artifactId>qbit-user-role-permissions</artifactId>
-    <version>0.3.0</version>
+    <version>0.32.0</version>
 </dependency>
 ```
 
