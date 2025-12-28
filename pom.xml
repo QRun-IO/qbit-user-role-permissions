@@ -27,7 +27,7 @@
    <parent>
       <groupId>com.kingsrook</groupId>
       <artifactId>qbit-build-parent</artifactId>
-      <version>1.1.0</version>
+      <version>1.5.1</version>
    </parent>
 
    <groupId>com.kingsrook.qbits</groupId>
@@ -65,7 +65,7 @@
    </scm>
 
    <properties>
-      <revision>0.31.0</revision>
+      <revision>0.32.0-SNAPSHOT</revision>
    </properties>
 
    <dependencies>
