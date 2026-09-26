@@ -98,7 +98,7 @@ public class RolePermissionIntCustomizer implements TableCustomizerInterface
    private static Set<Integer> getRoleIdsForRolePermissionIntRecords(List<QRecord> records, Optional<Map<Serializable, QRecord>> oldRecordMap) throws QException
    {
       Set<Integer> roleIds = CollectionUtils.nonNullList(records).stream()
-         .map(r -> ValueUtils.getValueAsInteger(RecordCustomizerUtilityInterface.getValueFromRecordOrOldRecord("roleId", r, r.getValueInteger("id"), oldRecordMap)))
+         .map(r -> ValueUtils.getValueAsInteger(RecordCustomizerUtilityInterface.getValueFromRecordElseFromOldRecord("roleId", r, r.getValueInteger("id"), oldRecordMap)))
          .collect(Collectors.toSet());
 
       return (roleIds);
