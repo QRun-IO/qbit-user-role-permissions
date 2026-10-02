@@ -146,4 +146,4 @@ Stable and production-ready. Used across multiple QQQ deployments.
 
 ## License
 
-Proprietary - QRun.IO
+Apache-2.0 - See [LICENSE](LICENSE) and [NOTICE](NOTICE).
