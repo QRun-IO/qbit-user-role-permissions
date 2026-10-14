@@ -18,3 +18,6 @@ Notable at that commit (see dossier for detail): develop has diverged behind
 0.30.0, Java 17 via qbit-build-parent 1.4.0, AGPL); qqq coupling is
 qqq-bom-pom 0.27.9 via the parent — a parent bump is required before building
 against qqq 4.0.
+
+Current first-party license declarations use Apache-2.0 consistently across LICENSE/NOTICE,
+the pom, source headers, Checkstyle template and README. The review above is historical.
