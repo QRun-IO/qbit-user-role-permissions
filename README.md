@@ -24,7 +24,7 @@ This QBit provides a complete RBAC system that integrates directly with QQQ's se
 
 ### Prerequisites
 
-- QQQ application (v4.0.0+)
+- QQQ application (v4.1.0+)
 - Database backend configured
 
 ### Installation
